@@ -1,7 +1,7 @@
 # 🚀 Go-to-Market Strategy
 ## AI-Powered Research Assistant
 
-![CI/CD Status](https://github.com/iamAyushSaxena/GTM-Strategy-AI-Research-Assistant/actions/workflows/ci.yml/badge.svg)
+![CI/CD Status](https://github.com/iamayushsaxena/GTM-Strategy-AI-Research-Assistant/actions/workflows/ci.yml/badge.svg)
 [![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -14,7 +14,7 @@
 
 ![Project Banner](outputs/figures/banner.png)
 
-💻 **[Live Demo](https://ayush-saxena-gtm-strategy-ai-research-assistant.streamlit.app)** | 📓 **[Documentation](https://github.com/iamAyushSaxena/GTM-Strategy-AI-Research-Assistant/tree/main/docs)** | 🐞 **[Report Bug](https://github.com/iamAyushSaxena/GTM-Strategy-AI-Research-Assistant/issues)**
+💻 **[Live Demo](https://ayush-saxena-gtm-strategy-ai-research-assistant.streamlit.app)** | 📓 **[Documentation](https://github.com/iamayushsaxena/GTM-Strategy-AI-Research-Assistant/tree/main/docs)** | 🐞 **[Report Bug](https://github.com/iamayushsaxena/GTM-Strategy-AI-Research-Assistant/issues)**
 
 ---
 
@@ -183,7 +183,7 @@ gtm-ai-productivity-tools/
 
 **Step 1: Clone the repository**
 ```bash
-git clone https://github.com/iamAyushSaxena/GTM-Strategy-AI-Research-Assistant.git
+git clone https://github.com/iamayushsaxena/GTM-Strategy-AI-Research-Assistant.git
 cd gtm-strategy-ai-research-assitant
 ```
 
@@ -614,8 +614,8 @@ Please provide attribution by linking back to this repository.
 **👤Author:** Ayush Saxena
 Product Manager | Data Analyst | Strategy Consultant
 
-- 🔗 **LinkedIn:** [Ayush Saxena](https://www.linkedin.com/in/ayushsaxena8880/)
-- 🐙 **GitHub:** [iamAyushSaxena](https://github.com/iamAyushSaxena)
+- 🔗 **LinkedIn:** [Ayush Saxena](https://www.linkedin.com/in/iamayushsaxena/)
+- 🐙 **GitHub:** [iamayushsaxena](https://github.com/iamayushsaxena)
 - 📧 **Email:** aysaxena8880@gmail.com
 
 ---
@@ -646,7 +646,7 @@ Have questions about this project? Want to discuss PM strategy?
 
 - **Email:** aysaxena8880@gmail.com
 - **LinkedIn:** Send me a message with "GTM Project" in the subject
-- **GitHub Issues:** Open an issue in this **[repository](https://github.com/iamAyushSaxena/GTM-Strategy-AI-Research-Assistant/issues)** for bugs or feature requests
+- **GitHub Issues:** Open an issue in this **[repository](https://github.com/iamayushsaxena/GTM-Strategy-AI-Research-Assistant/issues)** for bugs or feature requests
 
 ---
 
@@ -655,7 +655,7 @@ Have questions about this project? Want to discuss PM strategy?
 If you found this project helpful or impressive, please consider:
 - ⭐ **Starring the repository** (helps others discover it)
 - 🔄 **Sharing on LinkedIn** (tag me!)
-- 💬 **Providing feedback** (open an [issue](https://github.com/iamAyushSaxena/GTM-Strategy-AI-Research-Assistant/issues) with suggestions)
+- 💬 **Providing feedback** (open an [issue](https://github.com/iamayushsaxena/GTM-Strategy-AI-Research-Assistant/issues) with suggestions)
 - 🍴 **Fork it** to build your own version
 
 Your support helps others discover this resource!
